@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -52,6 +55,7 @@
     "Maven.my-automation [validate].executor": "Run",
     "Maven.my-automation [verify,-DforkCount=0...].executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Java-Selenium-Automation/my-automation/my-automation",
     "project.structure.last.edited": "Project",
